@@ -92,12 +92,18 @@
 }
 
 .contact-name {
-  font-weight: bold;
   margin-bottom: 5px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .last-message {
   color: #777;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .main-section {
@@ -122,6 +128,9 @@
 .main-title {
   font-size: 48px;
   margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .destacado {
